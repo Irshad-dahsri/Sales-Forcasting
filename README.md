@@ -2,7 +2,8 @@
 This project is about forecasting the sales of a retail company based on historical data using linear regression. The dataset used in this project is the "Big Mart Sales" dataset from Kaggle, which contains information about sales for 1559 products across 10 stores.
 
 Dataset
-The dataset is taken from kaggle and contains 180519 rows and 53 features.
+The dataset is taken from kaggle and contains 180519 rows and 53 features.The link to the dataset is given below.
+https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
 Dependencies
 This project is implemented in Python using the following libraries:
 
