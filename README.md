@@ -20,7 +20,7 @@ Running the code
 To run the code, you will need to have Jupyter Notebook installed on your machine. Once you have installed Jupyter, you can open the sales_forecasting.ipynb notebook and run the cells one by one.
 
 Results
-The linear regression model achieved an RMSE of 1209.15 on the test set. The predicted sales values were also plotted against the actual sales values to visualize the model's performance.
+The Adaboost regressor model achieved an optimal RMSE on the test set.
 
 Acknowledgments
 "Big Mart Sales" dataset from Kaggle
